@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="appname">ImageSearch</string>
+    <string name="search_hint">Enter your key</string>
+    <string name="internet_error">Please check your internet connection</string>
+    <string name="some_error">Something went wrong</string>
+    <string name="grid_2">2</string>
+    <string name="grid_3">3</string>
+    <string name="grid_4">4</string>
+</resources>
