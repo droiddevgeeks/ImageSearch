@@ -2,7 +2,7 @@ package com.example.imagesearch.api;
 
 
 public class ApiConstants {
-    //https://www.flickr.com/services/rest?method=flickr.photos.getRecent&api_key=d7ef663da10506e9f372ed4ee57bfb83&format=json&text=avenger
+    //https://www.flickr.com/services/rest?method=flickr.photos.getRecent&api_key=KEY&format=json&text=avenger
     public static final String API_KEY = "PLACE YOUR KEY";
     public static final String GET_PHOTO_METHOD = "flickr.photos.getRecent";
     public static final String RESPONSE_FORMAT = "json";
